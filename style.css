@@ -1,0 +1,19 @@
+* {
+    background-color: lightgray;
+    font-family: "Arial","Verdana",serif;
+}
+
+p {
+    font-size: 14px;
+    font-color: black;
+}
+
+h1 {
+    font-color: charcoal;
+    font-weight: bold;
+}
+
+h2 {
+    font-color: iridium;
+    font-weight: 500;
+}
