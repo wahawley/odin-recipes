@@ -1,19 +1,51 @@
 * {
     background-color: lightgray;
     font-family: "Arial","Verdana",serif;
+    width: 800px;
+    margin: auto;
+}
+
+img {
+    width: 800px;
+    height: auto;
 }
 
 p {
-    font-size: 14px;
-    font-color: black;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
 }
 
 h1 {
-    font-color: charcoal;
-    font-weight: bold;
+    color: DarkSlateGray;
+    font-weight: 400;
+    text-align: center;
+    margin: 16px auto;
 }
 
 h2 {
-    font-color: iridium;
+    color: iridium;
     font-weight: 500;
+    margin: 16px auto;
+}
+
+ul,
+ol {
+    padding: 0;
+    line-height: 2.5;
+    font-size: 16px;
+}
+
+.list {
+    box-sizing: border-box;
+    color: darkslategray;
+    width: 800px;
+    margin: 16px auto;
+    text-align: justify;
+}
+
+.link {
+    color: darkslategray;
+    font-size: 24px;
+    line-height: 2.5;
 }
